@@ -6,7 +6,7 @@
 REPORT zscript_watermark.
 
 DATA: it_material  TYPE TABLE OF mara,
-      it_material2 TYPE TABLE OF mara,
+      it_material2 TYPE TABLE OF mara, 
       ls_material  TYPE mara.
 
 DATA: countpages TYPE i.
